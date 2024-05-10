@@ -1,0 +1,11 @@
+﻿  Torneio.c
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(62,7): warning C4101: 'Novonome': variável local não referenciada
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(61,7): warning C4101: 'nome': variável local não referenciada
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(60,7): warning C4101: 'file_name': variável local não referenciada
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(271,3): warning C4033: 'PlayersetsJogados' deve retornar um valor
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(319,3): warning C4033: 'BtreeDeep' deve retornar um valor
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(239,1): warning C4716: 'PrintGame': deve retornar um valor
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(223,1): warning C4716: 'PrinfLeafs': deve retornar um valor
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(280,1): warning C4716: 'PlayersetsJogados': deve retornar um valor
+C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\TorneioB\Torneio.c(326,1): warning C4715: 'BtreeDeep': nem todos os caminhos de controle retornam um valor
+  TorneioB.vcxproj -> C:\Users\pinta\OneDrive\Ambiente de Trabalho\UTAD\2 ano\2 semestre\Algoritmia\Prática\TorneioB\x64\Debug\TorneioB.exe
